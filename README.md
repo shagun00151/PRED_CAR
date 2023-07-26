@@ -7,6 +7,9 @@ Car Pred - Used Car Price Prediction
 Overview
 Welcome to Car Pred - Used Car Price Prediction ML Project! This project is designed to predict the prices of used cars using machine learning techniques. With the help of historical data on used car sales and advanced algorithms, Car Pred aims to provide accurate and reliable price predictions. Whether you are a car enthusiast, a potential buyer, or someone interested in machine learning, this project is tailored to cater to your interests.
 
+![Screenshot 2023-07-27 021554](https://github.com/shagun00151/PRED_CAR/assets/78349737/4cb9e0e6-7a90-4e3c-9cec-4f8c8497da6e)
+
+
 Table of Contents
 - Overview
 - Project Highlights
